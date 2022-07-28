@@ -1,7 +1,11 @@
-1) `git init .`
-2) Github: Create repository `django-house`
-3) Create this `readme` file
-4) Create `.gitignore`
-5) Add `.gitignore` to `.gitignore`
-6) Commit and push
-7) Virtual environment
+ 1) `git init .`
+ 2) Github: Create repository `django-house`
+ 3) Create this `readme` file
+ 4) Create `.gitignore`
+ 5) Add `.gitignore` to `.gitignore`
+ 6) Commit and push
+ 7) Create virtual environment `dh`
+ 8) Add `dh` to `.gitignore`
+ 9) Commit changes
+10) Activate environment
+11) pip install `django`
