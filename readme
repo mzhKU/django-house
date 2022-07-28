@@ -1,0 +1,7 @@
+1) `git init .`
+2) Github: Create repository `django-house`
+3) Create this `readme` file
+4) Create `.gitignore`
+5) Add `.gitignore` to `.gitignore`
+6) Commit and push
+7) Virtual environment
